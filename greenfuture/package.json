@@ -1,7 +1,6 @@
 {
   "name": "greenfuture",
   "proxy": "http://localhost:5000",
-  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,6 +17,7 @@
     "firebase": "^11.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.9.2",
+    "projrct-uwl": "file:..",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.1.0",
