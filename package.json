@@ -6,7 +6,7 @@
   "main": "server.js",
   "scripts": {
     "dev": "node server.js",
-    "build": "npm install --prefix greenfuture && npm run build --prefix",
+    "build": "npm install --prefix greenfuture && npm run custom-build --prefix greenfuture",
     "custom-build": "echo 'Running custom build...' && your-build-commands-here",
     "start": "node server.js"
   },
